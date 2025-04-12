@@ -1,0 +1,131 @@
+Food Item,Calories (kcal),Protein (g),Fat (g),Carbohydrates (g)
+Idli,163.3,18.8,18.6,27.1
+Dosa,125.7,11.0,13.5,33.6
+Masala Dosa,135.8,8.0,7.5,38.2
+Uttapam,252.5,17.6,14.5,18.3
+Upma,246.9,12.7,2.7,29.8
+Pongal,133.2,19.5,15.5,26.4
+Sambar,341.6,18.8,8.5,33.6
+Rasam,290.1,2.1,2.8,12.6
+Vada,153.6,17.1,20.5,19.6
+Lemon Rice,319.3,14.0,15.8,15.0
+Curd Rice,134.4,9.9,20.3,16.5
+Tomato Rice,345.9,18.5,19.4,11.5
+Tamarind Rice,271.8,7.8,17.9,11.9
+Bisibelebath,225.2,15.6,1.6,36.6
+Vegetable Kurma,347.4,5.6,22.5,13.3
+Chapati,276.1,18.4,8.3,26.2
+Paratha,316.6,19.5,6.8,25.5
+Aloo Paratha,205.3,3.0,2.5,18.9
+Puri,234.5,11.5,12.5,33.1
+Bhatura,106.5,3.0,4.4,40.1
+Chole,221.3,9.4,17.2,10.1
+Rajma,166.0,12.4,16.2,35.4
+Kadhi,201.1,11.7,3.1,39.2
+Paneer Butter Masala,154.9,2.6,12.9,14.8
+Palak Paneer,334.3,17.8,21.1,20.3
+Matar Paneer,301.6,14.6,5.1,28.7
+Shahi Paneer,324.4,9.1,17.3,41.2
+Baingan Bharta,103.5,6.1,24.1,18.2
+Aloo Gobi,343.1,17.8,24.3,15.6
+Mixed Veg Curry,312.1,14.5,16.3,22.5
+Vegetable Biryani,341.2,7.1,18.9,39.2
+Chicken Biryani,303.7,17.8,5.3,30.5
+Mutton Biryani,313.7,15.3,9.1,40.6
+Egg Biryani,281.0,18.6,8.8,13.0
+Fish Biryani,135.6,19.8,10.6,33.9
+Jeera Rice,313.1,6.2,2.2,11.9
+Peas Pulao,150.9,14.4,13.9,25.1
+Vegetable Pulao,213.3,3.4,21.8,39.2
+Kashmiri Pulao,257.2,2.2,23.9,18.4
+Tawa Pulao,116.3,7.6,18.6,32.4
+Chicken Curry,153.4,12.8,7.6,18.1
+Butter Chicken,266.0,15.7,12.4,39.1
+Chicken Tikka Masala,228.0,17.6,22.3,17.7
+Mutton Rogan Josh,294.0,13.9,4.3,39.4
+Egg Curry,292.1,4.6,6.9,16.1
+Fish Curry,178.9,14.7,13.3,18.5
+Prawns Masala,246.4,4.7,24.5,29.2
+Keema Curry,263.8,9.1,17.9,26.5
+Nihari,123.9,2.4,5.2,18.7
+Chicken Chettinad,150.0,7.3,4.9,35.6
+Samosa,216.3,16.4,24.0,14.2
+Kachori,148.1,4.0,24.1,38.0
+Pakora,189.1,8.9,21.5,40.6
+Dhokla,272.6,17.0,7.7,24.6
+Sev Puri,239.2,11.9,16.4,36.3
+Pani Puri,169.0,14.8,6.0,18.3
+Bhel Puri,273.2,3.8,14.8,34.4
+Ragda Pattice,316.8,6.5,19.6,22.1
+Aloo Tikki,249.3,4.1,2.7,35.4
+Dabeli,314.4,19.8,20.9,21.6
+Pav Bhaji,107.6,9.9,13.0,27.1
+Vada Pav,139.0,8.7,15.1,20.1
+Mirchi Bajji,207.3,9.1,15.0,40.1
+Onion Pakora,326.5,9.6,19.7,37.2
+Bread Roll,285.8,7.8,14.2,23.3
+Poha,155.1,10.5,3.1,39.6
+Sabudana Khichdi,199.8,10.8,1.1,32.3
+Thepla,264.7,4.3,17.1,42.9
+Kanda Poha,291.7,5.7,23.8,24.1
+Handvo,151.0,2.4,15.9,43.3
+Appam,230.4,18.5,3.0,13.0
+Neer Dosa,105.3,13.5,24.6,26.7
+Ragi Dosa,202.8,9.2,1.4,41.5
+Moong Dal Chilla,337.1,14.4,21.0,32.7
+Pesarattu,161.4,11.7,16.9,22.5
+Kheer,338.9,14.5,7.1,40.9
+Gulab Jamun,333.6,2.4,2.3,17.8
+Rasgulla,126.4,17.0,2.6,25.6
+Rasmalai,308.2,5.1,9.4,32.2
+Jalebi,220.3,13.2,12.3,35.7
+Ladoo,264.0,13.9,7.6,36.7
+Halwa,257.0,6.2,18.1,13.2
+Mysore Pak,230.4,16.8,8.4,41.4
+Basundi,172.2,20.0,20.8,11.1
+Phirni,150.3,12.8,1.5,23.6
+Shrikhand,206.3,2.5,1.5,42.4
+Gajar Ka Halwa,156.1,8.3,15.2,13.2
+Sooji Halwa,104.9,14.8,2.1,30.0
+Malpua,312.2,2.8,23.2,25.2
+Puran Poli,315.1,19.0,1.8,23.8
+Raita,320.6,16.6,8.6,42.5
+Boondi Raita,280.2,8.0,4.8,42.5
+Green Chutney,165.6,3.2,20.8,10.3
+Tamarind Chutney,273.6,4.2,19.6,33.1
+Onion Salad,271.7,9.1,20.9,25.3
+Masala Papad,103.0,13.1,14.1,41.3
+Plain Curd,213.5,7.6,12.7,41.0
+Lassi,290.2,6.5,24.8,37.2
+Buttermilk,181.0,4.0,2.2,12.0
+Pickle,141.2,10.0,5.9,22.1
+Khichdi,185.4,18.3,19.0,22.9
+Moong Dal Khichdi,179.4,17.8,19.2,43.1
+Masala Khichdi,320.3,19.3,18.4,28.6
+Palak Khichdi,199.4,6.9,23.1,13.2
+Vegetable Khichdi,266.4,14.6,7.0,41.1
+Curd Khichdi,311.0,9.3,11.5,26.9
+Dalia,309.8,18.8,15.9,21.3
+Broken Wheat Upma,197.8,4.4,8.9,40.1
+Rice Pongal,293.5,8.3,15.7,33.0
+Sweet Pongal,213.8,14.3,6.7,24.8
+Undhiyu,246.2,7.8,2.8,19.4
+Patra,274.7,4.5,5.3,15.0
+Sarson Da Saag,126.0,6.3,15.5,36.1
+Makki Di Roti,156.2,12.1,19.3,42.8
+Litti Chokha,194.5,13.5,1.9,38.7
+Chana Sattu,338.9,4.0,12.8,44.0
+Bhutte Ka Kees,273.3,10.8,12.0,36.1
+Pakhala Bhata,289.5,19.7,20.0,31.7
+Chicken Rezala,167.1,15.8,24.4,41.4
+Chicken 65,173.2,2.2,9.4,23.1
+Tandoori Chicken,240.7,7.9,15.6,20.1
+Paneer Tikka,210.5,14.2,12.7,19.3
+Veg Frankie,117.3,10.0,8.8,25.0
+Chicken Frankie,118.0,3.6,14.3,32.0
+Paneer Wrap,186.1,7.1,11.0,11.7
+Chicken Wrap,178.8,18.2,21.0,20.1
+Veg Sandwich,267.0,15.6,10.1,13.9
+Chicken Sandwich,156.7,8.5,11.9,30.4
+Paneer Roll,165.2,14.2,9.0,20.4
+Egg Roll,219.4,4.1,12.0,34.1

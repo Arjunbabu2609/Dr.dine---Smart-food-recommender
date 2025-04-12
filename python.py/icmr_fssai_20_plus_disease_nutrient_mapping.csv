@@ -1,0 +1,25 @@
+Condition,Recommended Nutrients,Restricted Nutrients
+Diabetes,"High Protein, Low Carbohydrates, Moderate Fat","High Carbohydrates, High Sugar"
+Hypertension,"High Potassium, Low Sodium, Low Fat","High Sodium, High Fat"
+Cardiovascular Disease,"High Fiber, Low Saturated Fat","High Fat, High Cholesterol"
+Obesity,"High Protein, Low Carbohydrates, Low Fat","High Carbohydrates, High Fat, High Sugar"
+Kidney Disease,"Low Sodium, Controlled Protein","High Sodium, High Protein, High Potassium"
+Anemia,"High Iron, High Vitamin C, High Protein",Low Iron
+Osteoporosis,"High Calcium, High Vitamin D",Low Calcium
+Liver Disease,"Moderate Protein, Low Fat","High Fat, High Alcohol"
+Thyroid Disorder,"Selenium, Zinc, Iodine (for Hypo); Low Iodine (for Hyper)","Goitrogens, High Soy"
+Cancer,"High Protein, High Calorie, Antioxidants","Processed Foods, High Fat, High Sugar"
+Gout,"Low Purine, Moderate Carbohydrates","High Purine, High Protein"
+Celiac Disease,"Gluten-Free, High Fiber",Gluten
+Irritable Bowel Syndrome (IBS),"Low FODMAP, High Soluble Fiber","High FODMAP, Fatty Foods"
+Constipation,"High Fiber, Adequate Fluids","Low Fiber, High Fat"
+Diarrhea,"BRAT Diet (Banana, Rice, Apple, Toast)","High Fiber, Fatty Foods"
+PCOS,"High Protein, Low Glycemic Index","High Sugar, Refined Carbs"
+Acidity,"Alkaline Foods, Low Fat","Spicy, Fried Foods"
+Lactose Intolerance,Lactose-Free Calcium Sources,"Milk, Cream, Soft Cheese"
+Ulcer,"Non-acidic, High Fiber","Citrus, Spices, Caffeine"
+Pancreatitis,"Low Fat, Easily Digestible","High Fat, Alcohol"
+Depression,"Omega-3, Complex Carbs, B Vitamins","High Sugar, Processed Foods"
+Dengue Recovery,"High Fluids, Iron, Protein","Fried Foods, Spicy Foods"
+Typhoid,"Soft, High Calorie, High Protein","Spicy, High Fiber"
+Hepatitis,"High Carbohydrates, Low Fat","Alcohol, Fatty Foods"
